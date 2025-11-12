@@ -3,7 +3,7 @@ Wildcard symbol:
 .  --> this dot represent any one character in single position
 
 root@bob:~/Regex# cat regex01
-fooabar
+fooabar >>
 fooxbar
 baryfoo
 foobar
